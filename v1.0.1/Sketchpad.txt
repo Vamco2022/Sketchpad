@@ -1,0 +1,2 @@
+1.Fixed the BUG
+2.Added more colors
