@@ -1,0 +1,7 @@
+1,按q键调颜色
+2,按w键调大小
+3,修复了一些BUG
+
+1. Press the q key to adjust the color
+2. Press the w key to adjust the size
+3. Fixed some bugs
