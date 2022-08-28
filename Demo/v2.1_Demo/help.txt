@@ -1,0 +1,12 @@
+1.按q打开控制面板
+其中,第一个是调颜色
+第二个是调大小
+第三个是清空屏幕
+第四个是调整语言(中文和语言)
+
+1. Press q to open the Control Panel
+Among them, the first is to tone the color
+The second is to adjust the size
+The third is to empty the screen
+The fourth is to adjust the language (Chinese and language)
+
