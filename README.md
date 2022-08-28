@@ -1,6 +1,6 @@
 # Sketchpad(画板)
 
-这是一个画笔板。
+这是一个画板文件。
 是一个python文件，需要py来运行文件，如果你的电脑没有python，www.python.org 下载python。
 需要pygame，easygui扩展。
 请自行在cmd中运行pip install pygame和pip install easygui进行安装扩展。
