@@ -1,0 +1,9 @@
+1.按q打开控制面板
+其中,第一个是调颜色
+第二个是调大小
+第三个是清空屏幕
+
+1. Press q to open the Control Panel
+Among them, the first is to tone the color
+The second is to adjust the size
+The third is to empty the screen
