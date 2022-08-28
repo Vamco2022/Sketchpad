@@ -11,7 +11,7 @@ except ValueError:
     #设置画布大小
 screen=pygame.display.set_mode([number,number])
 screen.fill((255,255,255))
-pygame.display.set_caption("Sketchpad v1.0.3")
+pygame.display.set_caption("Sketchpad v2.0")
 
 game_going=True
 pen=(0,0,0)
