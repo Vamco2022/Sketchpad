@@ -4,9 +4,10 @@ import easygui
 pygame.init()
 number=0
 try:
-    print(input("what number X number"))
-    number=int(input())
+    number = easygui.enterbox("请输入画布大小")
+    number = int(number)
 except ValueError:
+    easygui.msgbox("参数·输入错误")
     number=500
     #设置画布大小
 int(number)
@@ -18,7 +19,6 @@ game_going=True
 
 pen = (0,0,0)
 pen_size = 10
-IsEnglish = True
 #初始化画笔
 
 mouse_down = False
