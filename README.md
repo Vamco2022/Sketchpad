@@ -10,8 +10,11 @@
 
 
 This is a Sketchpad.
-Is a python File,need py to run file,if your computer no have python, chink there www.python.org to Download python.
+It's a python File,need py to run file,if your computer haven't python, chink there www.python.org to Download python.
 Requires a pygame,easygui extension for py. 
 Please run pip install pygame and pip install easygui in cmd to install the extension.
-if the file have BUG,please give me say.
+if the file have BUG,please call me.
 email : vamco2020@163.com and vamco2020@outlook.com
+Emmm, this project is old.
+
+last change: 2023/11/10 9:16 p.m. (UTC+8)
